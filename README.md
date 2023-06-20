@@ -1,5 +1,6 @@
 # Data-Structures
 
+<<<<<<< HEAD
 >GRAPHS
 
 LeetCode Question : 547. Number of Provinces
@@ -12,3 +13,6 @@ You are given an n x n matrix isConnected where isConnected[i][j] = 1 if the ith
 
 Return the total number of provinces.
 
+=======
+> GRAPHS 
+>>>>>>> 14038259b5819d5177d8cd7e1495b162c2ea4900
